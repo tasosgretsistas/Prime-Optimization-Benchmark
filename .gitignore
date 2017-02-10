@@ -47,3 +47,5 @@ Temporary Items
 .apdisk
 
 # VS
+BenchmarkPrimeStrategy/bin/
+BenchmarkPrimeStrategy/obj/
